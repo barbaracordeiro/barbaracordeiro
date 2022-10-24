@@ -1,11 +1,8 @@
-## Olá! Eu sou ✨
+## Olá! Eu sou Bárbara Cordeiro ✨
 
-- 👋 Hi, I’m @barbaracordeiro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- I use mostly: <code>C#</code>, <code>Java</code>
+- 💼 I’m interested in working <code>remotely</code> or <code>overseas</code>
+- 🌱 I’m currently learning <code>frameworks</code>
+- 💻 I use mostly: <code>C#</code>, <code>Java</code>, <code>HTML 5</code>, <code>CSS 3</code>, <code>JavaScript</code>
 
   <div> 
   <a href = "mailto:barbara.cordeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/barbaracordeiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbaracordeiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordeiro&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbaracordeiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordeiro&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
   ##
