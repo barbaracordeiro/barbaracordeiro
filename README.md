@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning <code>frameworks</code>
 - 💻 I use mostly: <code>C#</code>, <code>Java</code>, <code>HTML 5</code>, <code>CSS 3</code>, <code>JavaScript</code>
 
-  <div> 
+##
+
+  <div align="center"> 
   <a href = "mailto:barbara.cordeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbara-cordeiro-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://www.behance.net/barbaracordeirodev" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
@@ -14,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/barbaracordeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbaracordeiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordeiro&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=barbaracordeiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordeiro&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
   ##
